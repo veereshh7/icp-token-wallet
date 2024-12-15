@@ -1,0 +1,11 @@
+[package]
+name = "icp-token-wallet"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+candid = "0.8.2"
+ic-cdk = "0.7.0"
+ic-cdk-macros = "0.13.2"
+lazy_static = "1.4.0"
+serde = "1.0"
