@@ -1,0 +1,10 @@
+C:\Users\veere\icp-token-wallet\target\debug\deps\libserde_tokenstream-5e7be77361e31d0a.rmeta: C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\lib.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\ibidem.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\ordered_map.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\serde_tokenstream.rs
+
+C:\Users\veere\icp-token-wallet\target\debug\deps\libserde_tokenstream-5e7be77361e31d0a.rlib: C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\lib.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\ibidem.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\ordered_map.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\serde_tokenstream.rs
+
+C:\Users\veere\icp-token-wallet\target\debug\deps\serde_tokenstream-5e7be77361e31d0a.d: C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\lib.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\ibidem.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\ordered_map.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\serde_tokenstream.rs
+
+C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\lib.rs:
+C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\ibidem.rs:
+C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\ordered_map.rs:
+C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_tokenstream-0.1.7\src\serde_tokenstream.rs:

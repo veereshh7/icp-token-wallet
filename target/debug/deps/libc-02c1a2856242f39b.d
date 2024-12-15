@@ -1,0 +1,11 @@
+c:\Users\veere\icp-token-wallet\target\debug\deps\liblibc-02c1a2856242f39b.rmeta: C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src/lib.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\macros.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\fixed_width_ints.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\mod.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\msvc\mod.rs
+
+c:\Users\veere\icp-token-wallet\target\debug\deps\liblibc-02c1a2856242f39b.rlib: C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src/lib.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\macros.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\fixed_width_ints.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\mod.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\msvc\mod.rs
+
+c:\Users\veere\icp-token-wallet\target\debug\deps\libc-02c1a2856242f39b.d: C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src/lib.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\macros.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\fixed_width_ints.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\mod.rs C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\msvc\mod.rs
+
+C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src/lib.rs:
+C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\macros.rs:
+C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\fixed_width_ints.rs:
+C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\mod.rs:
+C:\Users\veere\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.168\src\windows\msvc\mod.rs:
